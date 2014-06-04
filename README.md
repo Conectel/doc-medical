@@ -1,4 +1,5 @@
-doc-medical
-===========
+Documentation for Odoo Medical Users
+====================================
 
-Doc-Medical
+Documentation for Odoo Medical Users
+
